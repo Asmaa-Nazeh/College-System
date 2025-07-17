@@ -36,5 +36,5 @@ This is a web-based college management system built using **Laravel** and **Admi
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/college-system.git
+   git clone https://github.com/Asmaa-Nazeh/college-system.git
    cd college-system
