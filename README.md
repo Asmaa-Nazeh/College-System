@@ -32,11 +32,11 @@ This is a web-based college management system built using **Laravel** and **Admi
 - `app/Models`: Eloquent models for each table
 - `app/Http/Controllers`: Logic and functions for all entities
 
+
 ## 🎥 Demo Video
 
-Click the image below to watch the demo video for the project:
-
-[![Watch the video](https://i.imgur.com/UXP4l5N.png)](https://drive.google.com/file/d/1kcR4zd-07fBcxkNVeMY_AJGDzZnIlWPY/view?usp=drive_link)
+You can watch the demo video of the project here:  
+👉 [Watch on Google Drive](https://drive.google.com/file/d/1kcR4zd-07fBcxkNVeMY_AJGDzZnIlWPY/view?usp=drive_link)
 
 
 ## 🛠️ Installation
