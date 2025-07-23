@@ -14,6 +14,7 @@ This is a web-based college management system built using **Laravel** and **Admi
     - Doctors
     - Courses
     - Employees
+    - Departments
 
 - 🧭 **Dashboard Interface**
   - Integrated with **AdminLTE 3** theme
@@ -36,7 +37,7 @@ This is a web-based college management system built using **Laravel** and **Admi
 ## 🎥 Demo Video
 
 You can watch the demo video of the project here:  
-👉 [Watch on Google Drive](https://drive.google.com/file/d/1kcR4zd-07fBcxkNVeMY_AJGDzZnIlWPY/view?usp=drive_link)
+👉 [Watch here](https://drive.google.com/file/d/1kcR4zd-07fBcxkNVeMY_AJGDzZnIlWPY/view?usp=drive_link)
 
 
 ## 🛠️ Installation
